@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "InnoPesto",
+    "subtitle": "Das Pesto für innovative Ideen und jeden Geschmack",
+    "description": "InnoPesto ist das perfekte Pesto für alle, die innovative Ideen lieben.",
+    "image": "/images/innopesto2.png",
+    "tag": "Essen",
+    "hidden": false
+  }
+]
